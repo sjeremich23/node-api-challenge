@@ -1,3 +1,4 @@
+/* eslint-disable import/no-extraneous-dependencies */
 const cleaner = require("knex-cleaner");
 
 exports.seed = function(knex) {
