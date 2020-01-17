@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-expressions */
 const Actions = require("../api/routers/actions/actionModel");
 const Projects = require("../api/routers/projects/projectModel");
 
