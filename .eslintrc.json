@@ -10,7 +10,8 @@
         "singleQuote": false,
         "printWidth": 80,
         "bracketSpacing": true,
-        "arrowParens": "avoid"
+        "arrowParens": "avoid",
+        "tabWidth": 2,
       }
     ],
     "jsx-a11y/no-static-element-interactions": "off",
