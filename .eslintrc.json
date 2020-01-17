@@ -11,7 +11,7 @@
         "printWidth": 80,
         "bracketSpacing": true,
         "arrowParens": "avoid",
-        "tabWidth": 2,
+        "tabWidth": 2
       }
     ],
     "jsx-a11y/no-static-element-interactions": "off",
